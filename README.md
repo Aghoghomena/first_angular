@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NFundamentals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# first_angular
+First Angular Project
+>>>>>>> da4779ec2b01dfa3149814792c3ace023a2a024a
